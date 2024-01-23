@@ -5,7 +5,7 @@
 ### Voici quelques visuels du projet :
 
 #### Page d'accueil ;
-![home](https://github.com/Timothe12/portfoliophp/assets/128182775/6df4e0a6-fa95-4286-8e12-82b6663eab58)
+![home](https://github.com/Timothe12/portfoliophp/assets/128182775/db5f46e1-2231-4f94-bb85-683e3220148d)
 
 #### Page de connexion ;
 ![connexion](https://github.com/Timothe12/portfoliophp/assets/128182775/b9a51f04-3370-4462-8e75-4694b41ecad4)
