@@ -1,0 +1,163 @@
+body {
+    background: url("../Images/body.jpg") center ;
+}
+
+
+.nav-item {
+    font-size: 150%;
+}
+
+.footerClass {
+    background-color: #212529;
+    color: #96989a;
+}
+
+.footerClass a {
+    color: #96989a;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.footerClass a:hover {
+    color: #d8d9da;
+}
+
+.fontProject {
+    color: #75a154;
+}
+
+.btnCustom {
+    background-color: #75a154;
+    color: white;
+}
+
+.fontProject h4 {
+    font-family: AURORA PRO;
+    font-size: 250%;
+}
+
+.imgCV {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fontChoice h4 {
+    margin-top: 100px;
+    font-family: AURORA PRO;
+    font-size: 600%;
+    color: #75a154;
+}
+
+.containerCV {
+    background-color: #ffffff;
+}
+
+.cvBackground {
+    transform: rotate(8deg);
+    background-color: #ffffff;
+    margin-top: 90px;
+    margin-bottom: 60px;
+    border-style: solid;
+    border-width: 6px;
+    border-color: #c7c5c6;
+}
+
+.fontChoice2 {
+    padding: 0 20px 20px 20px;
+}
+
+.fontChoice2 h4 {
+    color: #75a154;
+    font-family: Lato Black;
+    font-weight: bold;
+    font-size: 400%;
+    text-align: center;
+}
+
+.fontChoice2 h5 {
+    color: #b1c085;
+    font-family: AURORA PRO;
+    font-size: 400%;
+    text-align: center;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.mt-5 p {
+    font-family: Lato;
+    font-size: 150%;
+}
+
+.img-wrapper {
+    position: relative;
+}
+
+.btn-image {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+.bodyConnexion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.bodyBackground {
+    width: 550px;
+    height: 350px;
+    padding: 20px;
+    margin-bottom: 60px;
+    background-color: #75a154;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.customButton button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #ffffff;
+    border: 0;
+    color: #75a154;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.customButton button:hover {
+    background-color: #d0d2ce;
+    color: white;
+}
+
+.customInput label {
+    color: white;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.customInput input[type="text"],
+.customInput input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.inscription {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.inscription:hover {
+    opacity: 0.5;
+}
